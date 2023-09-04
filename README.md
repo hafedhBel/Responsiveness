@@ -1,0 +1,2 @@
+# Responsiveness
+css different types
